@@ -69,7 +69,6 @@
                                     Margin="0,0,16,2"
                                     HorizontalAlignment="Left"
                                     VerticalAlignment="Center"
-                                    FontSize="16"
                                     Foreground="{ThemeResource TitleBarForegroundBrush}"
                                     Style="{StaticResource CaptionTextBlockStyle}"
                                     Text="{TemplateBinding Title}"
